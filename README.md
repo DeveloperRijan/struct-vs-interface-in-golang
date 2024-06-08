@@ -1,2 +1,2 @@
 ## Golang
-struct-vs-interface-in-golang.git
+struct-vs-interface-in-golang
